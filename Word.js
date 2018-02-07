@@ -15,17 +15,12 @@ var Word = function(word){
 		
 	}
 	console.log(checkGuessArray.join(""))
+	this.lettersArray = checkGuessArray
+	//this.lettersArray
   }
                                              
 	this.toString = toString()
 }
-
-// var NewWord = new Word("hello")
-// 	//console.log(NewWord)
-// 	//console.log(NewWord.newLettersArray)
-//     NewWord.letterInstance()
-    
-//     NewWord.letterInstance("h")
 
 module.exports = Word
 
