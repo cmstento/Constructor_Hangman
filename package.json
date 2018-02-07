@@ -1,0 +1,21 @@
+{
+  "name": "constructor_hangman",
+  "version": "1.0.0",
+  "description": "A game that creates a hangman via constructors; to enhance our object oriented programming skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmstento/Constructor_Hangman.git"
+  },
+  "author": "Chris Stento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmstento/Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/cmstento/Constructor_Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+}
